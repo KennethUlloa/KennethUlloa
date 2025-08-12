@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Kenneth Ulloa</h1>
 <h3 align="center">Software Developer</h3>
 
----
-
 ## 💻 Tech Stack
 
 <p align="center">
@@ -31,8 +29,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/ZSH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
-
----
 
 ## 📊 GitHub Stats
 
